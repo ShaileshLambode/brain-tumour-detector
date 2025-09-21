@@ -6,7 +6,7 @@ A deep learning‑powered web app for detecting and classifying brain tumors fro
 
 ## Demo / Preview
 
-![UI Preview](Demo.png)
+![UI Preview](app-video.gif)
 
 ---
 
